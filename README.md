@@ -1,3 +1,7 @@
+# Project Running:
+
+[See the project running, click here](https://students-gradesje.web.app/index.html)
+
 # To run this code on your computer, follow these steps:
 
 1. enter your desired directory and open your VScode
